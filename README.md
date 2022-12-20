@@ -1,4 +1,4 @@
-(https://www.allcarbonfree.energy/static/assets/img/allcarbonfree/acf-logo-no-border-10b.png)
+!(https://www.allcarbonfree.energy/static/assets/img/allcarbonfree/acf-logo-no-border-10b.png)
 An All Carbon Free Path estimates when and how we reach Year Carbon Zero by simulating multiple CleanTechs together. As new CleanTechs are invented and manufactured over the next decade, a Path can show the impact for each one.
 [All Carbon Free](https://www.allcarbonfree.energy)
 ## File Descriptions
