@@ -17,7 +17,7 @@ The main calculator is included along with constants used and input carbon emiss
 - Share / Promote Paths and/or CleanTechs
 - Improve website UI
 - Improve website copywrite
-- 
+
 ## More All Carbon Free Information
 
 www.allcarbonfree.energy/info
